@@ -33,8 +33,9 @@
 <img width="300" alt="LangChain" src="https://github.com/whybe-choi/khuda-nlp-project/assets/88676496/d376a1b7-c9d5-41ba-be01-1efa44f3f607">
 <img width="300" alt="gpt" src="https://github.com/whybe-choi/khuda-nlp-project/assets/88676496/4905e949-ada7-4290-9da8-950062ca26cd">
 <img width="200" alt="Chroma" src="https://github.com/whybe-choi/khuda-nlp-project/assets/88676496/7fe464ac-e41f-4ef3-9418-6e14ebd44d54">
+<div>
 LangChain을 이용하여 multi-agent system을 구축하였고 이때 OpenAI api를 이용하여 모델을 사용하였다. 모델이 답변 작성 시 참고하는 데이터가 담긴 vector DB는 Chroma를 이용하였다.
-
+</div>
 
 
 ## 🗣 Result
